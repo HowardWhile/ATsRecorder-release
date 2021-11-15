@@ -1,0 +1,4 @@
+ATs-Recorder changelog
+
+v1.0.0.0
+    ATs Recorder 公用程式發佈
