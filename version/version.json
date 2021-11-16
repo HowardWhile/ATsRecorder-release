@@ -1,8 +1,0 @@
-{
-  "version": "1.0.0.0",
-  "url": "https://github.com/HowardWhile/ATsRecorder-release/raw/main/app-v1.0.0.0.zip",
-  "changelog": "https://raw.githubusercontent.com/HowardWhile/ATsRecorder-release/main/changelog.txt",
-  "mandatory": {
-    "value": true
-  }
-}
