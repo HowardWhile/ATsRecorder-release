@@ -1,4 +1,7 @@
 ATs-Recorder changelog
+v1.0.1.1
+	修正UI閃動問題
+	
 v1.0.1.0
 	加入Modbus TCP功能
 	
