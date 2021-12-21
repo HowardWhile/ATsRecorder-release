@@ -1,12 +1,15 @@
 ATs-Recorder changelog
+v1.0.2.1
+    修復程式終止的問題
+
 v1.0.2.0
-	增加eco模式
+    增加eco模式
 
 v1.0.1.1
-	修正UI閃動問題
+    修正UI閃動問題
 
 v1.0.1.0
-	加入Modbus TCP功能
+    加入Modbus TCP功能
 
 v1.0.0.1
     加入GPL-3.0 License宣告
