@@ -1,4 +1,8 @@
 ATs-Recorder changelog
+
+v1.0.3.0
+    增加可透過Modbus修改檔案時間的功能
+
 v1.0.2.2
     修復感測器初始化失敗的問題
 
