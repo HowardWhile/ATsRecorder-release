@@ -1,6 +1,6 @@
 ATs-Recorder changelog
 
-v1.0.3.0
+v1.0.3.1
     增加可透過Modbus修改檔案時間的功能
 
 v1.0.2.2
