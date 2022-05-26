@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.3.2</version>
-    <url>https://gitee.com/howardwhile/ATsRecorder-release/raw/main/app/ATs%20Recorder-v1.0.3.2.zip</url>
+    <version>1.0.3.3</version>
+    <url>https://gitee.com/howardwhile/ATsRecorder-release/raw/main/app/ATs%20Recorder-v1.0.3.3.zip</url>
     <changelog>https://gitee.com/howardwhile/ATsRecorder-release/raw/main/version/changelog.txt</changelog>
     <mandatory>true</mandatory>
 </item>

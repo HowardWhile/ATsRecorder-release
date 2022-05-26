@@ -1,5 +1,8 @@
 ATs-Recorder changelog
 
+v1.0.3.3
+    檔名分隔符號由 "_" 換成 '-'
+
 v1.0.3.2
     增加可透過Modbus修改檔案時間的功能
 
