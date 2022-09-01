@@ -1,4 +1,7 @@
-ATs-Recorder changelog
+MAS-Recorder changelog
+
+v1.0.6.0
+    正名MAS-Recorder
 
 v1.0.5.2
     加入原點校正的功能
