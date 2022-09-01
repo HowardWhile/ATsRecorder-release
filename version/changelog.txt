@@ -1,6 +1,6 @@
 ATs-Recorder changelog
 
-v1.0.5.1
+v1.0.5.2
     加入原點校正的功能
     加入錄製檔案釋放的功能
 
